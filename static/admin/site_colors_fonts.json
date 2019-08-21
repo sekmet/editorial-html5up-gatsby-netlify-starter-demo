@@ -1,9 +1,9 @@
 {
-  "site_font_family": "Quicksand,sans-serif",
-  "site_heading_font": "Fjalla One,sans-serif",
-  "site_fixed_font": "Karla,sans-serif",
-  "site_accent_color": "#93bd6b",
-  "site_bg_color": "#F5F6F7",
+  "site_accent_color": "#f58d23",
+  "site_bg_color": "#ffffff",
   "site_bg_altcolor": "#f5f6f7",
-  "site_fg_color": "#7f888f"
+  "site_fg_color": "#000000",
+  "site_font_family": "Inconsolata,monospace",
+  "site_heading_font": "Oswald,sans-serif",
+  "site_fixed_font": "PT Sans Narrow,sans-serif"
 }
