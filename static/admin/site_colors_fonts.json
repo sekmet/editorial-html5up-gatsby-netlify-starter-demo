@@ -1,9 +1,9 @@
 {
-  "site_accent_color": "#f58d23",
+  "site_accent_color": "#b8e986",
   "site_bg_color": "#ffffff",
   "site_bg_altcolor": "#f5f6f7",
-  "site_fg_color": "#000000",
-  "site_font_family": "Inconsolata,monospace",
-  "site_heading_font": "Oswald,sans-serif",
+  "site_fg_color": "#192b05",
+  "site_font_family": "Noto Sans JP,sans-serif",
+  "site_heading_font": "Anton,sans-serif",
   "site_fixed_font": "PT Sans Narrow,sans-serif"
 }
