@@ -1,8 +1,7 @@
 ---
 templateKey: footer
-siteName: Untitled
+siteName: Editorial by HTML5 UP + Gatsby + Netlify CMS Starter
 siteUrl: 'https://editorial-html5up-gatsby.netlify.com/'
-siteFooterFont: 'Open Sans'
 tagline: All rights reserved.
 ---
 
